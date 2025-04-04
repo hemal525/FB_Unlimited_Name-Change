@@ -1,13 +1,13 @@
 # Facebook Black Veryfy Badge By LMNx9 
-# Codded by LIMON HOSSAIN 
-# FB - https://facebook.com/LJ.LMNx9
+# Codded by suk tara 
+# FB - https://www.facebook.com/Lovesh222
 
 
 
-javascript:var fullName = " Limon Hossain 󱢏";
-var firstName = "Limon";
+javascript:var fullName = " Suk Tara 󱢏";
+var firstName = "Suk";
 var middleName = "";
-var lastName = "Hossain"; 
+var lastName = "Tara"; 
 
 var spinr = require('SiteData')['__spin_r'];
 var jazoest = require('SprinkleConfig')['jazoest'];
