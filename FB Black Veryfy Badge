@@ -4,10 +4,10 @@
 
 
 
-javascript:var fullName = " Limon Hossain 󱢏";
-var firstName = "Limon";
+javascript:var fullName = " Suk tara 󱢏";
+var firstName = "Suk";
 var middleName = "";
-var lastName = "Hossain"; 
+var lastName = "Tara"; 
 
 var spinr = require('SiteData')['__spin_r'];
 var jazoest = require('SprinkleConfig')['jazoest'];
